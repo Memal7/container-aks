@@ -1,2 +1,2 @@
 # container-aks
-Intro in Docker-Container &amp; AKS
+Intro to Docker-Container & AKS
